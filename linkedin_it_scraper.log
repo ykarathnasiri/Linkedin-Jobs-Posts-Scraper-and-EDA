@@ -1,0 +1,121 @@
+2025-03-18 20:13:58,154 - INFO - Starting comprehensive LinkedIn IT job scraping
+2025-03-18 20:13:58,162 - INFO - Scraping with sort: relevant, filter: 24h
+2025-03-18 20:14:21,546 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_201358.csv. Batch size: 20
+2025-03-18 20:14:30,157 - INFO - Scraping with sort: relevant, filter: week
+2025-03-18 20:26:46,688 - INFO - Starting comprehensive LinkedIn IT job scraping
+2025-03-18 20:26:46,688 - INFO - Scraping with sort: relevant, filter: 24h
+2025-03-18 20:27:54,141 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 50
+2025-03-18 20:29:05,649 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 50
+2025-03-18 20:30:12,250 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 50
+2025-03-18 20:30:23,751 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 7
+2025-03-18 20:30:31,004 - INFO - Scraping with sort: relevant, filter: week
+2025-03-18 20:32:08,734 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 36
+2025-03-18 20:32:15,366 - INFO - Scraping with sort: relevant, filter: month
+2025-03-18 20:33:29,226 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 20
+2025-03-18 20:33:34,357 - INFO - Scraping with sort: relevant, filter: any
+2025-03-18 20:34:30,906 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 1
+2025-03-18 20:34:40,399 - INFO - Scraping with sort: recent, filter: 24h
+2025-03-18 20:35:34,302 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 2
+2025-03-18 20:35:43,826 - INFO - Scraping with sort: recent, filter: week
+2025-03-18 20:36:36,140 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 1
+2025-03-18 20:36:43,522 - INFO - Scraping with sort: recent, filter: month
+2025-03-18 20:37:33,362 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 1
+2025-03-18 20:37:38,548 - INFO - Scraping with sort: recent, filter: any
+2025-03-18 20:38:41,109 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 12
+2025-03-18 20:38:46,164 - INFO - Scraping with sort: applied, filter: 24h
+2025-03-18 20:39:43,849 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 8
+2025-03-18 20:39:50,067 - INFO - Scraping with sort: applied, filter: week
+2025-03-18 20:40:50,323 - INFO - Scraping with sort: applied, filter: month
+2025-03-18 20:41:47,743 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 1
+2025-03-18 20:41:53,513 - INFO - Scraping with sort: applied, filter: any
+2025-03-18 20:42:50,980 - INFO - Data saved/appended to data\linkedin_it_jobs_20250318_202646.csv. Batch size: 7
+2025-03-18 21:16:56,594 - INFO - Starting LinkedIn IT job scraping...
+2025-03-18 21:18:17,948 - WARNING - Switching to Selenium for better coverage...
+2025-03-18 21:18:17,948 - INFO - ====== WebDriver manager ======
+2025-03-18 21:18:19,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:20,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:21,007 - INFO - There is no [win64] chromedriver "134.0.6998.88" for browser google-chrome "134.0.6998" in cache
+2025-03-18 21:18:21,007 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:22,426 - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-18 21:18:22,430 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-18 21:18:22,431 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-18 21:18:23,031 - INFO - Driver downloading response is 200
+2025-03-18 21:18:26,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:30,207 - INFO - Driver has been saved in cache [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88]
+2025-03-18 21:18:47,103 - INFO - ====== WebDriver manager ======
+2025-03-18 21:18:48,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:48,608 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:18:49,158 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:19:05,593 - INFO - ====== WebDriver manager ======
+2025-03-18 21:19:06,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:07,042 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:07,592 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:19:23,626 - INFO - ====== WebDriver manager ======
+2025-03-18 21:19:24,525 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:25,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:25,571 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:19:41,112 - INFO - ====== WebDriver manager ======
+2025-03-18 21:19:42,008 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:42,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:19:43,167 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:20:00,781 - INFO - ====== WebDriver manager ======
+2025-03-18 21:20:01,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:02,225 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:02,732 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:20:18,703 - INFO - ====== WebDriver manager ======
+2025-03-18 21:20:19,592 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:20,160 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:20,641 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:20:36,816 - INFO - ====== WebDriver manager ======
+2025-03-18 21:20:37,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:38,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:38,864 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:20:55,974 - INFO - ====== WebDriver manager ======
+2025-03-18 21:20:56,876 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:57,452 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:20:57,978 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:21:13,559 - INFO - ====== WebDriver manager ======
+2025-03-18 21:21:14,460 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:15,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:15,485 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:21:31,241 - INFO - ====== WebDriver manager ======
+2025-03-18 21:21:32,147 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:32,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:33,267 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:21:50,360 - INFO - ====== WebDriver manager ======
+2025-03-18 21:21:51,379 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:51,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:21:52,556 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:22:09,460 - INFO - ====== WebDriver manager ======
+2025-03-18 21:22:10,375 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:10,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:11,500 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:22:27,628 - INFO - ====== WebDriver manager ======
+2025-03-18 21:22:28,644 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:29,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:29,751 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:22:46,476 - INFO - ====== WebDriver manager ======
+2025-03-18 21:22:47,825 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:48,623 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:22:49,364 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:23:05,242 - INFO - ====== WebDriver manager ======
+2025-03-18 21:23:06,275 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:06,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:07,499 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:23:26,112 - INFO - ====== WebDriver manager ======
+2025-03-18 21:23:27,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:27,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:28,263 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:23:45,267 - INFO - ====== WebDriver manager ======
+2025-03-18 21:23:46,294 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:46,864 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:23:47,414 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:24:04,004 - INFO - ====== WebDriver manager ======
+2025-03-18 21:24:04,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:24:05,422 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:24:06,020 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:24:23,316 - INFO - ====== WebDriver manager ======
+2025-03-18 21:24:24,420 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:24:25,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:24:25,590 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:24:41,394 - INFO - Saved 89 jobs to linkedin_it_jobs.csv.
